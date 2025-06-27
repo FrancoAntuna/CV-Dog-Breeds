@@ -1,0 +1,781 @@
+{
+    "info": {
+        "description": "Anotaciones autom\u00e1ticas"
+    },
+    "images": [
+        {
+            "id": 0,
+            "file_name": "perro_caballo_nino.jpg",
+            "width": 1300,
+            "height": 866
+        },
+        {
+            "id": 1,
+            "file_name": "perro_nieve.jpg",
+            "width": 372,
+            "height": 248
+        },
+        {
+            "id": 2,
+            "file_name": "perro_gato.jpeg",
+            "width": 290,
+            "height": 174
+        },
+        {
+            "id": 3,
+            "file_name": "perro_disfraz_caballo.jpeg",
+            "width": 168,
+            "height": 300
+        },
+        {
+            "id": 4,
+            "file_name": "perro_policia.jpeg",
+            "width": 316,
+            "height": 159
+        },
+        {
+            "id": 5,
+            "file_name": "perro_ninos.jpg",
+            "width": 1300,
+            "height": 868
+        },
+        {
+            "id": 6,
+            "file_name": "perros_arbol.jpeg",
+            "width": 668,
+            "height": 668
+        },
+        {
+            "id": 7,
+            "file_name": "perro_gatos_varios.jpg",
+            "width": 480,
+            "height": 360
+        },
+        {
+            "id": 8,
+            "file_name": "perro_campo_ovejas.jpeg",
+            "width": 5002,
+            "height": 2492
+        },
+        {
+            "id": 9,
+            "file_name": "perro_campo_mucha_luz.jpg",
+            "width": 1024,
+            "height": 684
+        },
+        {
+            "id": 0,
+            "file_name": "perro_caballo_nino.jpg",
+            "width": 1300,
+            "height": 866
+        },
+        {
+            "id": 0,
+            "file_name": "perro_caballo_nino.jpg",
+            "width": 1300,
+            "height": 866
+        },
+        {
+            "id": 1,
+            "file_name": "perro_nieve.jpg",
+            "width": 372,
+            "height": 248
+        },
+        {
+            "id": 2,
+            "file_name": "perro_gato.jpeg",
+            "width": 290,
+            "height": 174
+        },
+        {
+            "id": 3,
+            "file_name": "perro_disfraz_caballo.jpeg",
+            "width": 168,
+            "height": 300
+        },
+        {
+            "id": 4,
+            "file_name": "perro_policia.jpeg",
+            "width": 316,
+            "height": 159
+        },
+        {
+            "id": 5,
+            "file_name": "perro_ninos.jpg",
+            "width": 1300,
+            "height": 868
+        },
+        {
+            "id": 6,
+            "file_name": "perros_arbol.jpeg",
+            "width": 668,
+            "height": 668
+        },
+        {
+            "id": 7,
+            "file_name": "perro_gatos_varios.jpg",
+            "width": 480,
+            "height": 360
+        },
+        {
+            "id": 8,
+            "file_name": "perro_campo_ovejas.jpeg",
+            "width": 5002,
+            "height": 2492
+        },
+        {
+            "id": 9,
+            "file_name": "perro_campo_mucha_luz.jpg",
+            "width": 1024,
+            "height": 684
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 0,
+            "category_id": 38,
+            "bbox": [
+                51,
+                562,
+                577,
+                293
+            ],
+            "area": 169061,
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "category_id": 12,
+            "bbox": [
+                139,
+                13,
+                85,
+                154
+            ],
+            "area": 13090,
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 2,
+            "category_id": 39,
+            "bbox": [
+                4,
+                7,
+                99,
+                158
+            ],
+            "area": 15642,
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                215,
+                50,
+                52,
+                116
+            ],
+            "area": 6032,
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 4,
+            "category_id": 38,
+            "bbox": [
+                155,
+                79,
+                75,
+                78
+            ],
+            "area": 5850,
+            "iscrowd": 0
+        },
+        {
+            "id": 6,
+            "image_id": 5,
+            "category_id": 68,
+            "bbox": [
+                597,
+                337,
+                351,
+                523
+            ],
+            "area": 183573,
+            "iscrowd": 0
+        },
+        {
+            "id": 7,
+            "image_id": 6,
+            "category_id": 32,
+            "bbox": [
+                481,
+                247,
+                186,
+                418
+            ],
+            "area": 77748,
+            "iscrowd": 0
+        },
+        {
+            "id": 8,
+            "image_id": 6,
+            "category_id": 38,
+            "bbox": [
+                219,
+                31,
+                128,
+                312
+            ],
+            "area": 39936,
+            "iscrowd": 0
+        },
+        {
+            "id": 9,
+            "image_id": 7,
+            "category_id": 38,
+            "bbox": [
+                306,
+                58,
+                139,
+                262
+            ],
+            "area": 36418,
+            "iscrowd": 0
+        },
+        {
+            "id": 10,
+            "image_id": 7,
+            "category_id": 39,
+            "bbox": [
+                265,
+                197,
+                82,
+                122
+            ],
+            "area": 10004,
+            "iscrowd": 0
+        },
+        {
+            "id": 11,
+            "image_id": 7,
+            "category_id": 39,
+            "bbox": [
+                207,
+                229,
+                54,
+                89
+            ],
+            "area": 4806,
+            "iscrowd": 0
+        },
+        {
+            "id": 12,
+            "image_id": 7,
+            "category_id": 23,
+            "bbox": [
+                220,
+                136,
+                61,
+                157
+            ],
+            "area": 9577,
+            "iscrowd": 0
+        },
+        {
+            "id": 13,
+            "image_id": 7,
+            "category_id": 39,
+            "bbox": [
+                157,
+                240,
+                56,
+                77
+            ],
+            "area": 4312,
+            "iscrowd": 0
+        },
+        {
+            "id": 14,
+            "image_id": 8,
+            "category_id": 30,
+            "bbox": [
+                2616,
+                603,
+                2220,
+                1436
+            ],
+            "area": 3187920,
+            "iscrowd": 0
+        },
+        {
+            "id": 15,
+            "image_id": 0,
+            "category_id": 38,
+            "bbox": [
+                51,
+                562,
+                577,
+                293
+            ],
+            "area": 169061,
+            "iscrowd": 0
+        },
+        {
+            "id": 16,
+            "image_id": 2,
+            "category_id": 12,
+            "bbox": [
+                139,
+                13,
+                85,
+                154
+            ],
+            "area": 13090,
+            "iscrowd": 0
+        },
+        {
+            "id": 17,
+            "image_id": 2,
+            "category_id": 39,
+            "bbox": [
+                4,
+                7,
+                99,
+                158
+            ],
+            "area": 15642,
+            "iscrowd": 0
+        },
+        {
+            "id": 18,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                215,
+                50,
+                52,
+                116
+            ],
+            "area": 6032,
+            "iscrowd": 0
+        },
+        {
+            "id": 19,
+            "image_id": 4,
+            "category_id": 38,
+            "bbox": [
+                155,
+                79,
+                75,
+                78
+            ],
+            "area": 5850,
+            "iscrowd": 0
+        },
+        {
+            "id": 20,
+            "image_id": 5,
+            "category_id": 68,
+            "bbox": [
+                597,
+                337,
+                351,
+                523
+            ],
+            "area": 183573,
+            "iscrowd": 0
+        },
+        {
+            "id": 21,
+            "image_id": 6,
+            "category_id": 32,
+            "bbox": [
+                481,
+                247,
+                186,
+                418
+            ],
+            "area": 77748,
+            "iscrowd": 0
+        },
+        {
+            "id": 22,
+            "image_id": 6,
+            "category_id": 38,
+            "bbox": [
+                219,
+                31,
+                128,
+                312
+            ],
+            "area": 39936,
+            "iscrowd": 0
+        },
+        {
+            "id": 23,
+            "image_id": 7,
+            "category_id": 38,
+            "bbox": [
+                306,
+                58,
+                139,
+                262
+            ],
+            "area": 36418,
+            "iscrowd": 0
+        },
+        {
+            "id": 24,
+            "image_id": 7,
+            "category_id": 39,
+            "bbox": [
+                265,
+                197,
+                82,
+                122
+            ],
+            "area": 10004,
+            "iscrowd": 0
+        },
+        {
+            "id": 25,
+            "image_id": 7,
+            "category_id": 39,
+            "bbox": [
+                207,
+                229,
+                54,
+                89
+            ],
+            "area": 4806,
+            "iscrowd": 0
+        },
+        {
+            "id": 26,
+            "image_id": 7,
+            "category_id": 23,
+            "bbox": [
+                220,
+                136,
+                61,
+                157
+            ],
+            "area": 9577,
+            "iscrowd": 0
+        },
+        {
+            "id": 27,
+            "image_id": 7,
+            "category_id": 39,
+            "bbox": [
+                157,
+                240,
+                56,
+                77
+            ],
+            "area": 4312,
+            "iscrowd": 0
+        },
+        {
+            "id": 28,
+            "image_id": 8,
+            "category_id": 30,
+            "bbox": [
+                2616,
+                603,
+                2220,
+                1436
+            ],
+            "area": 3187920,
+            "iscrowd": 0
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Afghan"
+        },
+        {
+            "id": 2,
+            "name": "African Wild Dog"
+        },
+        {
+            "id": 3,
+            "name": "Airedale"
+        },
+        {
+            "id": 4,
+            "name": "American Hairless"
+        },
+        {
+            "id": 5,
+            "name": "American Spaniel"
+        },
+        {
+            "id": 6,
+            "name": "Basenji"
+        },
+        {
+            "id": 7,
+            "name": "Basset"
+        },
+        {
+            "id": 8,
+            "name": "Beagle"
+        },
+        {
+            "id": 9,
+            "name": "Bearded Collie"
+        },
+        {
+            "id": 10,
+            "name": "Bermaise"
+        },
+        {
+            "id": 11,
+            "name": "Bichon Frise"
+        },
+        {
+            "id": 12,
+            "name": "Blenheim"
+        },
+        {
+            "id": 13,
+            "name": "Bloodhound"
+        },
+        {
+            "id": 14,
+            "name": "Bluetick"
+        },
+        {
+            "id": 15,
+            "name": "Border Collie"
+        },
+        {
+            "id": 16,
+            "name": "Borzoi"
+        },
+        {
+            "id": 17,
+            "name": "Boston Terrier"
+        },
+        {
+            "id": 18,
+            "name": "Boxer"
+        },
+        {
+            "id": 19,
+            "name": "Bull Mastiff"
+        },
+        {
+            "id": 20,
+            "name": "Bull Terrier"
+        },
+        {
+            "id": 21,
+            "name": "Bulldog"
+        },
+        {
+            "id": 22,
+            "name": "Cairn"
+        },
+        {
+            "id": 23,
+            "name": "Chihuahua"
+        },
+        {
+            "id": 24,
+            "name": "Chinese Crested"
+        },
+        {
+            "id": 25,
+            "name": "Chow"
+        },
+        {
+            "id": 26,
+            "name": "Clumber"
+        },
+        {
+            "id": 27,
+            "name": "Cockapoo"
+        },
+        {
+            "id": 28,
+            "name": "Cocker"
+        },
+        {
+            "id": 29,
+            "name": "Collie"
+        },
+        {
+            "id": 30,
+            "name": "Corgi"
+        },
+        {
+            "id": 31,
+            "name": "Coyote"
+        },
+        {
+            "id": 32,
+            "name": "Dalmation"
+        },
+        {
+            "id": 33,
+            "name": "Dhole"
+        },
+        {
+            "id": 34,
+            "name": "Dingo"
+        },
+        {
+            "id": 35,
+            "name": "Doberman"
+        },
+        {
+            "id": 36,
+            "name": "Elk Hound"
+        },
+        {
+            "id": 37,
+            "name": "French Bulldog"
+        },
+        {
+            "id": 38,
+            "name": "German Sheperd"
+        },
+        {
+            "id": 39,
+            "name": "Golden Retriever"
+        },
+        {
+            "id": 40,
+            "name": "Great Dane"
+        },
+        {
+            "id": 41,
+            "name": "Great Perenees"
+        },
+        {
+            "id": 42,
+            "name": "Greyhound"
+        },
+        {
+            "id": 43,
+            "name": "Groenendael"
+        },
+        {
+            "id": 44,
+            "name": "Irish Spaniel"
+        },
+        {
+            "id": 45,
+            "name": "Irish Wolfhound"
+        },
+        {
+            "id": 46,
+            "name": "Japanese Spaniel"
+        },
+        {
+            "id": 47,
+            "name": "Komondor"
+        },
+        {
+            "id": 48,
+            "name": "Labradoodle"
+        },
+        {
+            "id": 49,
+            "name": "Labrador"
+        },
+        {
+            "id": 50,
+            "name": "Lhasa"
+        },
+        {
+            "id": 51,
+            "name": "Malinois"
+        },
+        {
+            "id": 52,
+            "name": "Maltese"
+        },
+        {
+            "id": 53,
+            "name": "Mex Hairless"
+        },
+        {
+            "id": 54,
+            "name": "Newfoundland"
+        },
+        {
+            "id": 55,
+            "name": "Pekinese"
+        },
+        {
+            "id": 56,
+            "name": "Pit Bull"
+        },
+        {
+            "id": 57,
+            "name": "Pomeranian"
+        },
+        {
+            "id": 58,
+            "name": "Poodle"
+        },
+        {
+            "id": 59,
+            "name": "Pug"
+        },
+        {
+            "id": 60,
+            "name": "Rhodesian"
+        },
+        {
+            "id": 61,
+            "name": "Rottweiler"
+        },
+        {
+            "id": 62,
+            "name": "Saint Bernard"
+        },
+        {
+            "id": 63,
+            "name": "Schnauzer"
+        },
+        {
+            "id": 64,
+            "name": "Scotch Terrier"
+        },
+        {
+            "id": 65,
+            "name": "Shar_Pei"
+        },
+        {
+            "id": 66,
+            "name": "Shiba Inu"
+        },
+        {
+            "id": 67,
+            "name": "Shih-Tzu"
+        },
+        {
+            "id": 68,
+            "name": "Siberian Husky"
+        },
+        {
+            "id": 69,
+            "name": "Vizsla"
+        },
+        {
+            "id": 70,
+            "name": "Yorkie"
+        }
+    ]
+}
