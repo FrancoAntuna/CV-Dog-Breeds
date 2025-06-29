@@ -16,10 +16,11 @@ Este proyecto implementa un sistema completo para la **detecci√≥n y clasificaci√
 
 ## Requisitos
 
-- Python 3.8 o superior  
+- Python 3.10 o superior  
 - `pip`  
-- GPU NVIDIA con soporte CUDA (recomendado para entrenamiento)  
-- Sistema operativo: Linux (ideal) o Windows con ajustes
+- GPU NVIDIA con soporte CUDA 12.9 (recomendado para entrenamiento)  
+- Sistema operativo: Linux
+
 
 ### Dependencias principales
 
