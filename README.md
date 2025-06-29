@@ -29,6 +29,14 @@ Instalación con pip:
 pip install -r requirements.txt
 ```
 
+## Instrucciones de Ejecución
+
+1. **Clonar el repositorio**
+   
+   ```bash
+   git clone https://github.com/FrancoAntuna/CV-Dog-Breeds
+   cd CV-Dog-Breeds
+
 #### Estructura esperada
 ├── coco/
 
@@ -66,36 +74,29 @@ pip install -r requirements.txt
 
 ├── dogs.csv 
 
-## Instrucciones de Ejecución
-
-1. **Clonar el repositorio**
-   
-   ```bash
-   git clone https://github.com/FrancoAntuna/CV-Dog-Breeds
-   cd CV-Dog-Breeds
 
 2. **Ubicar los modelos preentrenados**
     
-    - Asegurate de tener los siguientes archivos en la carpeta modelos/:
+    - Asegurarse de tener los siguientes archivos en la carpeta modelos/:
       - resnet18_finetuned_dogbreeds.pth
       - custom_cnn_dogbreeds.pth
-    - Si no los tenés, entrenalos desde la Etapa 2 o volve a clonar el git.
+    - Si no estan, se deben entrenar los modelos en la Etapa 2 o volve a clonar el git.
 
 3. **Ejecutar el notebook principal**
 
-    Abrí y corré el archivo:
+    Abrir y correr el archivo:
      ```bash
         dog_breeds.ipynb
      ```
-    Dentro del notebook vas a encontrar:
+    Dentro del notebook se encuentra:
 
       - Descarga del dataset
       - Preparación del entorno
       - Etapas 1 a 4 del pipeline
 
-4. **Ejecuta las primeras dos partes**
+4. **Ejecutar las primeras dos partes**
    
-    Con esto te aseguras la ejecucion modular de todas las etapas del proyecto.
+    Con esto se cargan las dependencias para la ejecucion modular de todas las etapas del proyecto.
 
 6. **Consideraciones**
    
