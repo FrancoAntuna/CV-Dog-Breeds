@@ -37,43 +37,43 @@ pip install -r requirements.txt
    ```bash
    git clone https://github.com/FrancoAntuna/CV-Dog-Breeds
    cd CV-Dog-Breeds
-
-#### Estructura esperada
-├── coco/
-
-├── embeddings/
-
-│   ├── embedding_matrix.pkl
-
-│   ├── index_custom.faiss
-
-│   ├── index_resnet.faiss
-
-│   ├── train_embeds_custom.npy
-
-│   ├── train_emneds_resnet.npy
-
-│   ├── train_labels_custom.npy
-
-│   └── train_labels_resnet.npy
-
-├── labels_yolo/
-
-├── modelos/
-
-│   ├── custom_cnn_dogbreeds.pth
-
-│   ├── dog_classifier_resnet18.onnx
-
-│   ├── resnet18_finetuned_dogbreeds.pth
-
-│   └── yolov8s.pt
-
-├── cnn_custom.ipynb (este archivo es una base de pruebas para distintas cnn)
-
-├── dog_breeds.ipynb (codigo fuente)
-
-├── dogs.csv 
+    ```
+   #### Estructura esperada
+   ├── coco/
+   
+   ├── embeddings/
+   
+   │   ├── embedding_matrix.pkl
+   
+   │   ├── index_custom.faiss
+   
+   │   ├── index_resnet.faiss
+   
+   │   ├── train_embeds_custom.npy
+   
+   │   ├── train_emneds_resnet.npy
+   
+   │   ├── train_labels_custom.npy
+   
+   │   └── train_labels_resnet.npy
+   
+   ├── labels_yolo/
+   
+   ├── modelos/
+   
+   │   ├── custom_cnn_dogbreeds.pth
+   
+   │   ├── dog_classifier_resnet18.onnx
+   
+   │   ├── resnet18_finetuned_dogbreeds.pth
+   
+   │   └── yolov8s.pt
+   
+   ├── cnn_custom.ipynb (este archivo es una base de pruebas para distintas cnn)
+   
+   ├── dog_breeds.ipynb (codigo fuente)
+   
+   ├── dogs.csv 
 
 
 2. **Ubicar los modelos preentrenados**
