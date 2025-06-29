@@ -1,27 +1,27 @@
-# 🐶 Dog Breed Recognition App
+# Dog Breed Recognition App
 
 Este proyecto implementa un sistema completo para la **detección y clasificación de razas de perros**, combinando detección de objetos con YOLOv8 y clasificación de imágenes mediante redes convolucionales (**ResNet18** y una **CNN personalizada**). La aplicación incluye una interfaz interactiva en **Gradio**.
 
 ### Funcionalidades principales
 
-- 🧠 Entrenamiento de clasificadores personalizados y preentrenados  
-- 🔍 Búsqueda por similitud visual usando FAISS  
-- 🐾 Detección de perros con YOLOv8  
-- 📷 Clasificación automática de razas en imágenes reales  
-- 📊 Evaluación cuantitativa del pipeline completo (mAP, IoU, F1)  
-- 📝 Anotación automática en formato YOLOv5 y COCO  
-- 🚀 Exportación a ONNX + aceleración con TensorRT
+- Entrenamiento de clasificadores personalizados y preentrenados  
+- Búsqueda por similitud visual usando FAISS  
+- Detección de perros con YOLOv8  
+- Clasificación automática de razas en imágenes reales  
+- Evaluación cuantitativa del pipeline completo (mAP, IoU, F1)  
+- Anotación automática en formato YOLOv5 y COCO  
+- Exportación a ONNX + aceleración con TensorRT
 
 ---
 
-## 📦 Requisitos
+## Requisitos
 
 - Python 3.8 o superior  
 - `pip`  
 - GPU NVIDIA con soporte CUDA (recomendado para entrenamiento)  
 - Sistema operativo: Linux (ideal) o Windows con ajustes
 
-### ✅ Dependencias principales
+### Dependencias principales
 
 Instalación con pip:
 
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ├── dogs.csv 
 
-## 🧪 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 1. **Clonar el repositorio**
    
