@@ -101,7 +101,8 @@ pip install -r requirements.txt
 
 6. **Consideraciones**
    
-    La Etapa 1 recalcula los embeddings desde cero. Si ya tenés los archivos .npy generados, podés saltearla.
+    La Etapa 1 recalcula los embeddings desde cero. Si ya tenés los archivos .npy generados, podes saltearla.
+    La implementacion de Gradio en la Etapa 1 requiere ejecutar la seccion "Modelo Base" dentro de la misma, por cuestiones de dependencia.
     La Etapa 2 vuelve a entrenar ambos modelos, lo cual puede tardar varios minutos.
     Asegurate de tener todas las dependencias correctamente instaladas (requirements.txt).
 
